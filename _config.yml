@@ -1,9 +1,20 @@
-layout_spectrum: 0.04121864
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8960574
 color:
   saturation: 0.1090432
-  lightness: 0.229222
   brandStrength: 1
+  lightness: 0.229222
   brandColors:
     - '#040203'
     - '#5C5327'
@@ -11,3 +22,5 @@ color:
     - '#91A591'
     - '#88C842'
   rhythmicContrast: 0.9220014
+layout_spectrum: 0.04121864
+name: Nspired
