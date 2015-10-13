@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.brainpickings.org/2012/03/30/love-is-walking-hand-in-hand-schulz-peanuts/?utm_content=buffer9172b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer'
 title: 'Love Is Walking Hand In Hand: The Peanuts Gang Defines Love, 1965'
-datePublished: '2015-10-13T00:51:58.856Z'
-dateModified: '2015-10-12T22:46:41.097Z'
+datePublished: '2015-10-13T00:53:57.995Z'
+dateModified: '2015-10-13T00:53:00.155Z'
 sourcePath: _posts/2015-10-13-love-is-walking-hand-in-hand-the-peanuts-gang-defines-love.md
 published: true
 inFeed: true
