@@ -1,20 +1,6 @@
 name: Nspired
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.8960574
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Nspired Consulting
+layout_spectrum: 0.8
 cta:
   domain: null
   bucket: null
@@ -35,7 +21,7 @@ color:
     - '#958774'
     - '#6e604d'
   brandStrength: 1
-  lightness: 0.229222
-  saturation: 0.1090432
-  rhythmicContrast: 0.9220014
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
