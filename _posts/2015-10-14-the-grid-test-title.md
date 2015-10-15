@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Testing how to create a post on the Grid. '
-datePublished: '2015-10-14T23:41:00.983Z'
-dateModified: '2015-10-14T23:40:57.841Z'
+datePublished: '2015-10-15T15:24:26.554Z'
+dateModified: '2015-10-15T15:22:29.376Z'
 title: The Grid Test Title
 sourcePath: _posts/2015-10-14-the-grid-test-title.md
 published: true
