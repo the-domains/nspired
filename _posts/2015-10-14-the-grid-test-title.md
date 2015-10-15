@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Testing how to create a post on the Grid. '
-datePublished: '2015-10-15T15:24:26.554Z'
-dateModified: '2015-10-15T15:22:29.376Z'
+datePublished: '2015-10-15T15:27:22.321Z'
+dateModified: '2015-10-15T15:27:17.447Z'
 title: The Grid Test Title
 sourcePath: _posts/2015-10-14-the-grid-test-title.md
 published: true
