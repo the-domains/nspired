@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nspired Solutions]]></title>
+        <description><![CDATA[Nspired Solutions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 21 Oct 2015 19:13:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["It is not the critic who counts..." Theodore Roosevelt #quote - New Media Marketing Company]]></title>
+            <description><![CDATA[<article><h1>"It is not the critic who counts..." Theodore Roosevelt #quote - New Media Marketing Company</h1><p>On this day, in 1910, Theodore Roosevelt, the 26th President of the United States of America, gave a compelling speech in Paris, France. His words serve as powerful motivation for anyone who dares something great, but meets with temporary defeat: "It is not the critic who counts: not the man who points out how the strong ...</p><img src="http://vinemultimedia.com/wp-content/uploads/2013/04/rosevelt-1024x768.jpg"></article>]]></description>
+            <link>http://vinemultimedia.com/723/it-is-not-the-critic-who-counts-theodore-roosevelt-quote/</link>
+            <guid isPermaLink="false">6768ecff-4942-4728-afb4-c840873fb1a8</guid>
+            <pubDate>Wed, 21 Oct 2015 19:13:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
