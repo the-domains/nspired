@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Nspired Solutions]]></title>
         <description><![CDATA[Nspired Solutions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nspired/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 19:13:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Oct 2015 19:18:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nspired/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mary Oliver on Love and Its Necessary Wildness]]></title>
+            <description><![CDATA[<article><h1>Mary Oliver on Love and Its Necessary Wildness</h1><p>For more than half a century, beloved poet Mary Oliver (b. September 10, 1935) has been beckoning us to remember ourselves and forget ourselves at the same time, to contact both our creatureliness and our transcendence as we move through the shimmering world her poetry has mirrored back at us - an unremitting invitation to live with what she calls "a seizure of happiness."</p><img src="https://i0.wp.com/www.brainpickings.org/wp-content/uploads/2014/04/maryoliver1964.jpg?w=600"></article>]]></description>
+            <link>https://www.brainpickings.org/2015/10/20/mary-oliver-felicity-love/</link>
+            <guid isPermaLink="false">2379ad55-52f5-4950-a3a2-303a2a95f093</guid>
+            <pubDate>Wed, 21 Oct 2015 19:17:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["It is not the critic who counts..." Theodore Roosevelt #quote - New Media Marketing Company]]></title>
             <description><![CDATA[<article><h1>"It is not the critic who counts..." Theodore Roosevelt #quote - New Media Marketing Company</h1><p>On this day, in 1910, Theodore Roosevelt, the 26th President of the United States of America, gave a compelling speech in Paris, France. His words serve as powerful motivation for anyone who dares something great, but meets with temporary defeat: "It is not the critic who counts: not the man who points out how the strong ...</p><img src="http://vinemultimedia.com/wp-content/uploads/2013/04/rosevelt-1024x768.jpg"></article>]]></description>
