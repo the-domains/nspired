@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Technology & Innovation for Non-Profits & Small Businesses making a difference]]></title>
-        <description><![CDATA[Technology & Innovation for Non-Profits & Small Businesses making a difference]]></description>
+        <title><![CDATA[Nspired Solutions]]></title>
+        <description><![CDATA[Nspired Solutions]]></description>
         <link>https://thegrid.ai/nspired/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Oct 2015 15:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 18:43:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nspired/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The Grid Test Title]]></title>
-            <description><![CDATA[<article><h1>The Grid Test Title</h1><p>This is apparently the body of the email. Testing This now. When don't i  he title and description in this view.  </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75e13c94-f993-4209-886f-c7a6ea17b17f.png"></article>]]></description>
-            <link>https://thegrid.ai/nspired/the-grid-test-title/index.html</link>
-            <guid isPermaLink="false">96ab0502-cad6-4123-835c-6557b255110f</guid>
-            <pubDate>Wed, 14 Oct 2015 23:41:00 GMT</pubDate>
+            <title><![CDATA[Test Post]]></title>
+            <description><![CDATA[<article><h1>Test Post</h1><p>Test description</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf6787fd-f6ac-4838-b1d3-19cddea481e2.png"></article>]]></description>
+            <link>https://thegrid.ai/nspired/test-post/index.html</link>
+            <guid isPermaLink="false">40a7f6a1-4720-415c-b88e-739df5ca49c8</guid>
+            <pubDate>Wed, 21 Oct 2015 18:43:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Love Is Walking Hand In Hand: The Peanuts Gang Defines Love, 1965]]></title>
