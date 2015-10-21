@@ -1,7 +1,8 @@
 name: Nspired
 favicon: null
 layout_spectrum: 1
-title: 'Technology & Innovation for Non-Profits'
+typography_spectrum: 0.5
+title: Nspired Solutions
 collections:
   - index:
       path: /
