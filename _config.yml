@@ -1,7 +1,7 @@
 name: Nspired
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.63869
+layout_spectrum: 0.50583
+typography_spectrum: 0.65422
 title: Nspired Solutions
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#3d2c1a'
     - '#958774'
     - '#6e604d'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 1
-  saturation: 1
+  saturation: 0.625
   rhythmicContrast: 1
 purpose: []
