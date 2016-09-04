@@ -1,8 +1,32 @@
-name: Nspired
-favicon: null
-layout_spectrum: 0.50583
 typography_spectrum: 0.65422
-title: Nspired Solutions
+color:
+  brandColors:
+    - '#fff4e2'
+    - '#c6b086'
+    - '#3d2c1a'
+    - '#958774'
+    - '#6e604d'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.625
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50583
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: null
+name: Nspired
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a167e69-2ab6-44c6-8574-93cb0feaf429.ico
 collections:
   - index:
       path: /
@@ -15,27 +39,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#fff4e2'
-    - '#c6b086'
-    - '#3d2c1a'
-    - '#958774'
-    - '#6e604d'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.625
-  rhythmicContrast: 1
+title: Nspired Solutions
 purpose: []
